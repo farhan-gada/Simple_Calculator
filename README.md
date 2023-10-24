@@ -32,11 +32,7 @@ The project is built using the following technologies and tools:
 3. Click the "=" button to see the result of your calculation.
 4. Use the "C" button to clear the input field and start a new calculation.
 
-## Screenshots
 
-![Calculator Screenshot](screenshot.png)
-
-## License
 
 This project is open-source and available under the [MIT License](LICENSE).
 
